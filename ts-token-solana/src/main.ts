@@ -13,7 +13,7 @@ umi.use(keypairIdentity(keypair))
 const metadata = {
     name: "Vagabond Gold",
     symbol: "SWORD",
-    uri: "https://raw.githubusercontent.com/solana-developers/program-examples/new-examples/tokens/tokens/.assets/spl-token.json",
+    uri: "https://raw.githubusercontent.com/baoanh1310/calyptus-solana/master/ts-token-solana/metadata.json",
 };
 
 const mint = generateSigner(umi);
