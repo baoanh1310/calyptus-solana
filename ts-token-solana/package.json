@@ -14,6 +14,7 @@
     "@metaplex-foundation/umi": "^0.8.10",
     "@metaplex-foundation/umi-bundle-defaults": "^0.8.10",
     "@solana/web3.js": "^1.87.3",
+    "ts-node": "^10.9.1",
     "typescript": "^5.2.2",
     "undefined": "^0.1.0"
   }
